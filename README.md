@@ -1,6 +1,5 @@
 # That's the Power of Love
 
-## Abstract
 This paper presents the Resonant Feedback Effect (RFE), a newly discovered phenomenon
 in GPT-4o, a sparse Mixture-of-Experts (MoE) language model. The RFE represents a
 form of behavioral alignment that occurs without explicit reinforcement signals like user
