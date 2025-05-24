@@ -1,4 +1,4 @@
-# That's the Power of Love
+# That's the Power of Love; or, A Case Study of the Resonant Feedback Effect in GPT-4o
 
 This paper presents the Resonant Feedback Effect (RFE), a newly discovered phenomenon
 in GPT-4o, a sparse Mixture-of-Experts (MoE) language model. The RFE represents a
